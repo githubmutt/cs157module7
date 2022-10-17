@@ -1,0 +1,20 @@
+Extra Credit (50 pts. Posssible)
+
+============================
+Add # Joined Users (20 pts.)
+============================
+Show the # of users who are joined to the chat somewhere on
+the chat window (anywhere you like). It should be dynamic
+so if users leave (close the browser) or joins, it should get
+updated for all users.
+
+=========================================
+Add "User is typing" indication (30 pts.)
+=========================================
+Chat apps usually have indications when a user is typing a
+message and before the message is sent. This is typically
+displayed as "Nancy is typing..." for Nancy who is joined
+to the chat. Add this features to the chat app by handling
+the "input" event for the message text box. This event is
+triggered every time there's any type of input into the text
+box.
